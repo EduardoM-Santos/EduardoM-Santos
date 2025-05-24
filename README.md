@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @EduardoM-Santos
-- 👀 I’m interested in learn how to create wonderfull websites working on front-end
-- 🌱 I’m currently learning Html5 and Css3
-- 💞️ I’m looking to collaborate on workspace that needs front-end developer
-- 📫 How to reach me my email @eduardomenezes9090@gmail.com 
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: i used delete without where on my project XD
+- 👋 Olá, sou o @EduardoM-Santos  
+- 👨‍💻 Sou apaixonado por criar sites bonitos e funcionais, com foco em desenvolvimento front-end  
+- 🌱 Atualmente estudando: HTML5, CSS3 e design responsivo  
+- 🤝 Procuro colaborar em projetos ou equipes que precisem de um desenvolvedor front-end criativo  
+- 📬 Contato: eduardomenezes9090@gmail.com  
+- 😄 Pronomes: Ele/Dele  
+- ⚡ Curiosidade: Já usei um DELETE sem WHERE no meu projeto... nunca mais! 😅
 
-<!---
-EduardoM-Santos/EduardoM-Santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @EduardoM-Santos  
+- 👨‍💻 I’m passionate about building beautiful and functional websites with a focus on front-end development  
+- 🌱 Currently learning: HTML5, CSS3, and diving into responsive design  
+- 🤝 I’m looking to collaborate on projects or teams that need a creative front-end developer  
+- 📬 Reach me at: eduardomenezes9090@gmail.com  
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I once ran a DELETE query without a WHERE clause—won’t do that again! 😅
