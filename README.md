@@ -138,9 +138,7 @@ Atualmente busco:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoM-Santos&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoM-Santos&layout=compact&theme=transparent&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardoM-Santos&theme=github_dark" />
 
 </div>
 
